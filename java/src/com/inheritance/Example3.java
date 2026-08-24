@@ -37,7 +37,7 @@ public class Example3 {
 
     public static void main(String[] args) {
 
-        Car c = new Car("Turbo", "Disc", "Yellow", "120", "30");
+        Car c = new Car("Turb", "Disc", "Yellow", "120", "30");
 
         System.out.println(c);
     }
