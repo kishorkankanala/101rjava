@@ -49,7 +49,7 @@ public class Example4 {
                 "Hyderabad",
                 101,
                 "Kishor",
-                54000
+                55000
         );
 
         System.out.println(emp);
