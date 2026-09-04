@@ -2,7 +2,7 @@ package com.encapsulation;
 
 public class StudentResult {
 
-    private String studentName;
+    private String studentName; 
     private int studentId;
     private String courseName;
     private double totalMarks;
